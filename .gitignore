@@ -1,0 +1,7 @@
+# 데이터셋 올라가면 안됨.
+#datasets
+*/data/
+
+#jupyter notebook
+*/.ipnyb_checkpoints/
+.ipynb_checkpoints/
