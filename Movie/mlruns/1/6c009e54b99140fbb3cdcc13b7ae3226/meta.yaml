@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yujaehyeon/Desktop/DACON/Movie/mlruns/1/6c009e54b99140fbb3cdcc13b7ae3226/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6c009e54b99140fbb3cdcc13b7ae3226
+run_uuid: 6c009e54b99140fbb3cdcc13b7ae3226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652331115138
+status: 1
+tags: []
+user_id: yujaehyeon
